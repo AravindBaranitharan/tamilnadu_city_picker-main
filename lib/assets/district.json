@@ -1,0 +1,154 @@
+[
+    {
+        "id": "1",
+        "name": "Ariyalur"
+    },
+    {
+        "id": "2",
+        "name": "Chennai"
+    },
+    {
+        "id": "3",
+        "name": "Coimbatore"
+    },
+    {
+        "id": "4",
+        "name": "Cuddalore"
+    },
+    {
+        "id": "5",
+        "name": "Dharmapuri"
+    },
+    {
+        "id": "6",
+        "name": "Dindigul"
+    },
+    {
+        "id": "7",
+        "name": "Erode"
+    },
+    {
+        "id": "8",
+        "name": "Kanchipuram"
+    },
+    {
+        "id": "9",
+        "name": "Kanyakumari"
+    },
+    {
+        "id": "10",
+        "name": "Karur"
+    },
+    {
+        "id": "11",
+        "name": "Krishnagiri"
+    },
+    {
+        "id": "12",
+        "name": "Madurai"
+    },
+    {
+        "id": "13",
+        "name": "Nagapattinam"
+    },
+    {
+        "id": "14",
+        "name": "Namakkal"
+    },
+    {
+        "id": "15",
+        "name": "Nilgiris"
+    },
+    {
+        "id": "16",
+        "name": "Perambalur"
+    },
+    {
+        "id": "17",
+        "name": "Pudukkottai"
+    },
+    {
+        "id": "18",
+        "name": "Ramanathapuram"
+    },
+    {
+        "id": "19",
+        "name": "Salem"
+    },
+    {
+        "id": "20",
+        "name": "Sivaganga"
+    },
+    {
+        "id": "21",
+        "name": "Tenkasi"
+    },
+    {
+        "id": "22",
+        "name": "Thanjavur"
+    },
+    {
+        "id": "23",
+        "name": "Theni"
+    },
+    {
+        "id": "24",
+        "name": "Thoothukudi"
+    },
+    {
+        "id": "25",
+        "name": "Tiruchirappalli"
+    },
+    {
+        "id": "26",
+        "name": "Tirunelveli"
+    },
+    {
+        "id": "27",
+        "name": "Tirupathur"
+    },
+    {
+        "id": "28",
+        "name": "Tiruppur"
+    },
+    {
+        "id": "29",
+        "name": "Tiruvallur"
+    },
+    {
+        "id": "30",
+        "name": "Tiruvannamalai"
+    },
+    {
+        "id": "31",
+        "name": "Tiruvarur"
+    },
+    {
+        "id": "32",
+        "name": "Vellore"
+    },
+    {
+        "id": "33",
+        "name": "Viluppuram"
+    },
+    {
+        "id": "34",
+        "name": "Virudhunagar"
+    },
+    {
+        "id": "35",
+        "name": "Chengalpattu"
+    },
+    {
+        "id": "36",
+        "name": "Ranipet"
+    },
+    {
+        "id": "37",
+        "name": "Kallakurichi"
+    },
+    {
+        "id": "38",
+        "name": "Mayiladuthurai"
+    }
+]

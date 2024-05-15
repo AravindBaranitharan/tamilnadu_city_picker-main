@@ -1,0 +1,137 @@
+[
+    {
+        "id": "1",
+        "name": "Alandur",
+        "district_id": "2"
+    },
+    {
+        "id": "2",
+        "name": "Ambattur",
+        "district_id": "2"
+    },
+    {
+        "id": "3",
+        "name": "Aminjikarai",
+        "district_id": "2"
+    },
+    {
+        "id": "4",
+        "name": "Ayanavaram",
+        "district_id": "2"
+    },
+    {
+        "id": "5",
+        "name": "Egmore",
+        "district_id": "2"
+    },
+    {
+        "id": "6",
+        "name": "Guindy",
+        "district_id": "2"
+    },
+    {
+        "id": "7",
+        "name": "Madhavaram",
+        "district_id": "2"
+    },
+    {
+        "id": "8",
+        "name": "Madhuravoyal",
+        "district_id": "2"
+    },
+    {
+        "id": "9",
+        "name": "Mambalam",
+        "district_id": "2"
+    },
+    {
+        "id": "10",
+        "name": "Mylapore",
+        "district_id": "2"
+    },
+    {
+        "id": "11",
+        "name": "Perambur",
+        "district_id": "2"
+    },
+    {
+        "id": "12",
+        "name": "Purasavakkam",
+        "district_id": "2"
+    },
+    {
+        "id": "13",
+        "name": "Sholinganallur",
+        "district_id": "2"
+    },
+    {
+        "id": "14",
+        "name": "Thiruvottriyur",
+        "district_id": "2"
+    },
+    {
+        "id": "15",
+        "name": "Tondiarpet",
+        "district_id": "2"
+    },
+    {
+        "id": "16",
+        "name": "Velacherry",
+        "district_id": "2"
+    },
+    {
+        "id": "17",
+        "name": "Aanaimalai",
+        "district_id": "3"
+    },
+    {
+        "id": "18",
+        "name": "Annur",
+        "district_id": "3"
+    },
+    {
+        "id": "19",
+        "name": "Coimbatore (North)",
+        "district_id": "3"
+    },
+    {
+        "id": "20",
+        "name": "Coimbatore (South)",
+        "district_id": "3"
+    },
+    {
+        "id": "21",
+        "name": "Kinathukadavu",
+        "district_id": "3"
+    },
+    {
+        "id": "22",
+        "name": "Madukarai",
+        "district_id": "3"
+    },
+    {
+        "id": "23",
+        "name": "Mettupalayam",
+        "district_id": "3"
+    },
+    {
+        "id": "24",
+        "name": "Perur",
+        "district_id": "3"
+    },
+    {
+        "id": "25",
+        "name": "Pollachi",
+        "district_id": "3"
+    },
+    {
+        "id": "26",
+        "name": "Sulur",
+        "district_id": "3"
+    },
+    {
+        "id": "27",
+        "name": "Valparai",
+        "district_id": "3"
+    }
+]
